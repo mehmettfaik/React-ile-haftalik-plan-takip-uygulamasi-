@@ -24,6 +24,10 @@ Haftalık Planlayıcı, günlük görevleri, alışveriş listesini ve harcamala
 - Görev ekleme, kaldırma ve düzenleme işlevleri.
 - Alışveriş listesi ve harcamaları takip etme.
 
+![resim1](https://github.com/mehmettfaik/React-ile-haftalik-plan-takip-uygulamasi-/blob/main/images/resim1.png)
+![resim3](https://github.com/mehmettfaik/React-ile-haftalik-plan-takip-uygulamasi-/blob/main/images/resim3.png)
+![resim5](https://github.com/mehmettfaik/React-ile-haftalik-plan-takip-uygulamasi-/blob/main/images/resim5.png)
+
 ## Katkı
 
 Katkılarınızı bekliyoruz! Proje için bir konu açın veya bir çekme isteği gönderin.
